@@ -8,16 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Sufos",
+    pageTitleSuffix: " — Saints & Sinners",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "jeyloh.github.io/sufos-wiki",
+    ignorePatterns: ["CLAUDE.md", "Drafts", ".obsidian", "Assets"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
