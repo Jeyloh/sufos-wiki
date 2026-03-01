@@ -3,7 +3,7 @@ type: session
 session_number: 9
 chapter: 2
 date:
-title: "The Mines, Zariel's Devil, and Moradin's Rebuke"
+title: "Session 9 - The Mines, Zariel's Devil, and Moradin's Rebuke"
 npcs_met: [orgaz, grath]
 places_visited: [embermines, underdark]
 quests_updated: [resolve-orgaz, find-aradin, earn-diamond-teeth]

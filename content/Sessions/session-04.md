@@ -3,7 +3,7 @@ type: session
 session_number: 4
 chapter: 1
 date:
-title: "The Thornewood Rescue"
+title: "Session 4 - The Thornewood Rescue"
 npcs_met: [stanley-thornewood, boar]
 places_visited: [emond, three-waters]
 quests_updated: [find-earth-orb, stop-tiamat]

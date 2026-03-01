@@ -3,7 +3,7 @@ type: session
 session_number: 2
 chapter: 1
 date:
-title: "Drageslottet — The Dragon Castle"
+title: "Session 2 - Drageslottet — The Dragon Castle"
 npcs_met: [zuthan, dolan-ward, mglukk]
 places_visited: [rumble-mines]
 quests_updated: [find-earth-orb, stop-tiamat]

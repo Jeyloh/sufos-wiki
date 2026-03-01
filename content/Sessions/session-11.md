@@ -3,7 +3,7 @@ type: session
 session_number: 11
 chapter: 2
 date:
-title: "The Mind Flayer — Svuss"
+title: "Session 11 - The Mind Flayer — Svuss"
 npcs_met: [svuss, kynos-gruun]
 places_visited: [underdark]
 quests_updated: [kill-mind-flayer, expose-kynos-gruun, find-aradin, negotiate-with-githyanki]

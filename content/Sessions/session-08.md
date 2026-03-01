@@ -3,7 +3,7 @@ type: session
 session_number: 8
 chapter: 2
 date:
-title: "Emberstone — Gith Attack and the Deck"
+title: "Session 8 - Emberstone — Gith Attack and the Deck"
 npcs_met: [cheereen, helmer, eshian, kynos-gruun, zephyrion, egdalen-warendin]
 places_visited: [emberstone, titanfall-arena]
 quests_updated: [find-aradin, expose-kynos-gruun, stop-tiamat]

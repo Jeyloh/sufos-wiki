@@ -3,7 +3,7 @@ type: session
 session_number: 5
 chapter: 1
 date:
-title: "The Battle for Three Waters — Chapter 1 Finale"
+title: "Session 5 - The Battle for Three Waters — Chapter 1 Finale"
 npcs_met: [leos-brother, felix-thornewood]
 places_visited: [three-waters]
 quests_updated: [stop-tiamat, find-earth-orb]

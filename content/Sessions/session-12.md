@@ -3,7 +3,7 @@ type: session
 session_number: 12
 chapter: 2
 date: 2025-01-01
-title: "Vharanis — The Alliance and the Crystal Corridor"
+title: "Session 12 - Vharanis — The Alliance and the Crystal Corridor"
 npcs_met: [vharanis, thraxus, ryth, jim-jam]
 places_visited: [underdark, crech-mediin]
 quests_updated: [negotiate-with-githyanki, retake-crech-mediin, resolve-orgaz, earn-diamond-teeth]

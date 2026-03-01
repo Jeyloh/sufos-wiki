@@ -3,7 +3,7 @@ type: session
 session_number: 3
 chapter: 1
 date:
-title: "Gordon Merek and the Marble Halls"
+title: "Session 3 - Gordon Merek and the Marble Halls"
 npcs_met: [gordon-merek, percy-andare, aghmar]
 places_visited: [emond]
 quests_updated: [find-earth-orb, stop-tiamat]

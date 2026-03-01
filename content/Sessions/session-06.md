@@ -3,7 +3,7 @@ type: session
 session_number: 6
 chapter: 2
 date:
-title: "Airborne — A Wedding Interrupted"
+title: "Session 6 - Airborne — A Wedding Interrupted"
 npcs_met: [cedric-krast, kael, captain-anlow, lavant]
 places_visited: [three-waters]
 quests_updated: [find-aradin, stop-tiamat]

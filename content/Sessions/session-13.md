@@ -3,7 +3,7 @@ type: session
 session_number: 13
 chapter: 2
 date: 2025-02-28
-title: "Lolth's Temple — The Spider Queen Speaks"
+title: "Session 13 - Lolth's Temple — The Spider Queen Speaks"
 npcs_met: [lady-eovah, lolth, ryth]
 places_visited: [crech-mediin]
 quests_updated: [retake-crech-mediin, resolve-orgaz, stop-tiamat]

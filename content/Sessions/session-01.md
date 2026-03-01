@@ -3,7 +3,7 @@ type: session
 session_number: 1
 chapter: 1
 date:
-title: "Meeting the Saints — Oderman's Villa"
+title: "Session 1 - Meeting the Saints — Oderman's Villa"
 npcs_met: [roko, oderman]
 places_visited: [rumble-mines]
 quests_updated: [find-earth-orb, stop-tiamat]

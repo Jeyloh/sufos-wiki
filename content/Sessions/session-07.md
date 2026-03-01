@@ -3,7 +3,7 @@ type: session
 session_number: 7
 chapter: 2
 date:
-title: "Ogre Mage and the Red City"
+title: "Session 7 - Ogre Mage and the Red City"
 npcs_met: [arathan]
 places_visited: [emberstone]
 quests_updated: []

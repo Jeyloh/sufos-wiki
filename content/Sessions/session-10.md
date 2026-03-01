@@ -3,7 +3,7 @@ type: session
 session_number: 10
 chapter: 2
 date:
-title: "Afterlife Casino and the Mind Flayer's Trail"
+title: "Session 10 - Afterlife Casino and the Mind Flayer's Trail"
 npcs_met: [ransell-bondiak, mungo-murdoch]
 places_visited: [afterlife-casino, emberstone]
 quests_updated: [find-aradin]

@@ -2,7 +2,7 @@
 type: session
 session_number: 14
 date: 2026-02-28
-title: Restoration and Revelation
+title: "Session 14 - Restoration and Revelation"
 processed_from: Drafts/session-2026-02-28.md
 npcs_met:
   - Kynos Gruun
