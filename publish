@@ -50,6 +50,7 @@ git add -A
 git commit -m "publish $(date '+%Y-%m-%d %H:%M')"
 
 echo "→ Pushing..."
+git pull --rebase
 git push
 
 echo "✓ Done. GitHub Actions will deploy in ~1 minute."
