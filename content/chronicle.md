@@ -87,7 +87,7 @@ The Saints arrive in Emberstone and are met by [[ransell-bondiak|Ransell Bondiak
 
 [[cheereen|Cheereen]], a paladin of Bahamut, is investigating vandalism to the statues of gods outside the Temple of Joint Worship.
 
-At [[zeffel|Zeffel]]'s establishment, the party meets him and [[helmer|Helmer]], an archaeologist and acquaintance of [[eshian|Eshian]]. The meeting is interrupted by four Gith warriors attacking. Zeffel and Helmer join the fight; Helmer attempts to calm the Gith in their own language. A young red dragon smashes through the windows. Another red dragon outside is massacred by an adult Brass Dragon. The party takes control of the young dragon and secures its promise of a future favour before releasing it.
+At [[zeffel|Zeffel]]'s establishment, the party meets him and [[helmer|Helmer]], an archaeologist and acquaintance of [[estian|Estian]]. The meeting is interrupted by four Gith warriors attacking. Zeffel and Helmer join the fight; Helmer attempts to calm the Gith in their own language. A young red dragon smashes through the windows. Another red dragon outside is massacred by an adult Brass Dragon. The party takes control of the young dragon and secures its promise of a future favour before releasing it.
 
 **LEVEL 9!**
 

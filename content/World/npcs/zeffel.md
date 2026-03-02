@@ -23,7 +23,7 @@ Primary employer in Emberstone. Has spent large sums in bribes to keep the party
 
 - Paid 5000 gp reward for saving his establishment from the dragon attack
 - Promised 20,000 gp for: killing the Mind Flayer + negotiating with the Githyanki
-- Plotting against Kynos Gruun; working with [[eshian|Eshian]]
+- Plotting against Kynos Gruun; working with [[estian|Estian]]
 - Agreed that the **Seekers** (another adventurer group) would handle the Underdark mission instead — after the party's failures with the Iron Ring — before the party stepped back in
 - Furious about the number of dead guards resulting from the party's actions
 - The caravan workers the party saved worked for him

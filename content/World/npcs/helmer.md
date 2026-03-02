@@ -4,7 +4,7 @@ race: Unknown
 status: hostage (with Githyanki)
 disposition: friendly
 first_met: Session 3 — Zeffel's establishment
-tags: [archaeologist, githyanki-hostage, eshian]
+tags: [archaeologist, githyanki-hostage, estian]
 ---
 
 # Helmer
@@ -13,7 +13,7 @@ tags: [archaeologist, githyanki-hostage, eshian]
 
 ## Description
 
-An archaeologist and acquaintance of [[eshian|Eshian]]. Was present at Zeffel's establishment during the Gith attack. Joined the fight and attempted to calm the Gith warriors by speaking their language.
+An archaeologist and acquaintance of [[estian|Estian]]. Was present at Zeffel's establishment during the Gith attack. Joined the fight and attempted to calm the Gith warriors by speaking their language.
 
 ## Relationship
 

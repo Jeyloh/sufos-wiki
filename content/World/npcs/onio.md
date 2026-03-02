@@ -22,4 +22,4 @@ Not yet directly engaged with. Part of the Copper Ring power structure.
 ## Notes
 
 - Aradin was framed for a theft at **Onio's gallery** — suggesting Onio may have connections to those who wanted Aradin imprisoned
-- One of the four Copper Lords: Zeffel (Tiefling), Onio (art), Kynos (Red Capes), Eshian (businessman)
+- One of the four Copper Lords: [[zeffel|Zeffel]] (Tiefling merchant), [[onio|Onio]] (art dealer), [[kynos-gruun|Kynos Gruun]] (Red Capes), [[estian|Estian]] (wizard/Academy)

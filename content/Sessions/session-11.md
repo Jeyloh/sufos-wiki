@@ -41,9 +41,9 @@ We also found: a magical dagger, coins, a spellbook, a scroll of Wither and Bloo
 
 The dragon scepter is now in our possession. The [[mind-flayer|Mind Flayer]] amulet too.
 
-We went back to [[zeffel|Zeffel]] with [[svuss|Svuss]]'s head and had a larger strategic conversation. The decision reached: negotiate with the [[githyanki|Githyanki]] directly. The head of the creature that stole their scepter, and the scepter itself, should buy us a conversation. Another adventuring group called the [[seekers|Seekers]] will handle the [[underdark|Underdark]] side of the investigation that we bungled (the [[iron-ring|Iron Ring]] situation was apparently messier than we presented it). We also discussed [[kynos-gruun|Kynos Gruun]] — positioning someone better as Copperlord in his place. [[eshian|Eshian]] or another option.
+We went back to [[zeffel|Zeffel]] with [[svuss|Svuss]]'s head and had a larger strategic conversation. The decision reached: negotiate with the [[githyanki|Githyanki]] directly. The head of the creature that stole their scepter, and the scepter itself, should buy us a conversation. Another adventuring group called the [[seekers|Seekers]] will handle the [[underdark|Underdark]] side of the investigation that we bungled (the [[iron-ring|Iron Ring]] situation was apparently messier than we presented it). We also discussed [[kynos-gruun|Kynos Gruun]] — positioning someone better as Copperlord in his place. [[estian|Estian]] or another option.
 
-We also spoke to [[helmer|Helmer]] and [[eshian|Eshian]] at some point in here, gathering information and building the web of who knows what in this city.
+We also spoke to [[helmer|Helmer]] and [[estian|Estian]] at some point in here, gathering information and building the web of who knows what in this city.
 
 Then into the [[underdark|Underdark]].
 

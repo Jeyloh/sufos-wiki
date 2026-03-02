@@ -4,7 +4,7 @@ session_number: 8
 chapter: 2
 date:
 title: "Session 8 - Emberstone — Gith Attack and the Deck"
-npcs_met: [cheereen, helmer, eshian, kynos-gruun, zephyrion, egdalen-warendin]
+npcs_met: [cheereen, helmer, estian, kynos-gruun, zephyrion, egdalen-warendin]
 places_visited: [emberstone, titanfall-arena]
 quests_updated: [find-aradin, expose-kynos-gruun, stop-tiamat]
 ---
@@ -27,7 +27,7 @@ At the Temple of Joint Worship — a sensible concept, one building for the six 
 
 [[zeffel|Zeffel]]'s establishment is through a covered market passage and into a compound that manages to be simultaneously modest and very clearly expensive. We passed the [[titanfall-arena|Titanfall Arena]] on the way — enormous beyond the city's apparent capacity to fill it, which means it was built for something else or for a time when this city was far larger. The scale of it is geological in its excess.
 
-At [[zeffel|Zeffel]]'s compound we met [[helmer|Helmer]] (an archaeologist funded by [[eshian|Eshian]], which is an interesting arrangement), [[eshian|Eshian]] himself (older, well-connected, the kind of quiet power that surface merchant cities accumulate in their founding families), and [[kynos-gruun|Kynos Gruun]] (Red Cape leader, cold, arrogant, the particular kind of arrogant that tells you a person has been allowed to be arrogant for too long without consequence). There is apparently a structure of four merchants called Copperlords who run much of the city's actual governance: [[zeffel|Zeffel]], [[kynos-gruun|Kynos Gruun]], [[eshian|Eshian]], and an art dealer named [[onio|Onio]].
+At [[zeffel|Zeffel]]'s compound we met [[helmer|Helmer]] (an archaeologist funded by [[estian|Estian]], which is an interesting arrangement), [[estian|Estian]] himself (older, well-connected, the kind of quiet power that surface merchant cities accumulate in their founding families), and [[kynos-gruun|Kynos Gruun]] (Red Cape leader, cold, arrogant, the particular kind of arrogant that tells you a person has been allowed to be arrogant for too long without consequence). There is apparently a structure of four merchants called Copperlords who run much of the city's actual governance: [[zeffel|Zeffel]], [[kynos-gruun|Kynos Gruun]], [[estian|Estian]], and an art dealer named [[onio|Onio]].
 
 [[zeffel|Zeffel]] himself is a tiefling. Good one. I say "good one" not as a judgment on his species but as an assessment of his character — he is straightforward, generous by surface standards, and treated us as equals immediately, which I respect. He was in the middle of this assessment when four [[githyanki|Githyanki]] warriors came through the windows.
 
