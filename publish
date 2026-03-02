@@ -5,28 +5,20 @@ REPO="$(cd "$(dirname "$0")" && pwd)"
 SUFOS="/Users/jorgen.lybeck.hansen@m10s.io/Library/Mobile Documents/iCloud~md~obsidian/Documents/Personal/DnD/Characters/sufos"
 VAULT="/Users/jorgen.lybeck.hansen@m10s.io/Library/Mobile Documents/iCloud~md~obsidian/Documents/Personal"
 
-echo "→ Syncing notes from Obsidian vault..."
+echo "→ Syncing notes and images from Obsidian vault..."
 rsync -a --delete \
   --exclude="CLAUDE.md" \
   --exclude="Drafts/" \
   --exclude=".obsidian/" \
-  --exclude="Assets/" \
   "$SUFOS/" \
   "$REPO/content/"
 
-echo "→ Syncing images..."
-mkdir -p "$REPO/content/Assets/images"
-
-# Images stored within the sufos vault folder
-rsync -a "$SUFOS/Assets/" "$REPO/content/Assets/"
-
-# Pasted images stored at vault root (Obsidian default attachment location)
+echo "→ Copying pasted images from vault root..."
 python3 - <<EOF
 import re, os, shutil, glob
 
 content_dir = "$REPO/content"
 vault = "$VAULT"
-dest_dir = "$REPO/content/Assets/images"
 
 refs = set()
 for path in glob.glob(content_dir + "/**/*.md", recursive=True):
@@ -35,10 +27,15 @@ for path in glob.glob(content_dir + "/**/*.md", recursive=True):
 
 for img in sorted(refs):
     src = os.path.join(vault, img)
-    dst = os.path.join(dest_dir, img)
     if os.path.isfile(src):
-        shutil.copy2(src, dst)
-        print(f"  copied: {img}")
+        # Place alongside the md file that references it
+        for md in glob.glob(content_dir + "/**/*.md", recursive=True):
+            if img in open(md).read():
+                dest_dir = os.path.join(os.path.dirname(md), "Assets", "images")
+                os.makedirs(dest_dir, exist_ok=True)
+                shutil.copy2(src, os.path.join(dest_dir, img))
+                print(f"  copied: {img}")
+                break
 EOF
 
 cd "$REPO"
