@@ -1,0 +1,30 @@
+#!/bin/bash
+set -e
+
+REPO="$(cd "$(dirname "$0")" && pwd)"
+SUFOS="/Users/jorgen.lybeck.hansen@m10s.io/Library/Mobile Documents/iCloud~md~obsidian/Documents/Personal/DnD/Characters/sufos"
+
+echo "→ Syncing from Obsidian vault..."
+rsync -a --delete \
+  --exclude="CLAUDE.md" \
+  --exclude="Drafts/" \
+  --exclude=".obsidian/" \
+  --exclude="Assets/" \
+  "$SUFOS/" \
+  "$REPO/content/"
+
+cd "$REPO"
+
+if git diff --quiet && git diff --cached --quiet; then
+  echo "→ No changes to publish."
+  exit 0
+fi
+
+echo "→ Committing..."
+git add -A
+git commit -m "publish $(date '+%Y-%m-%d %H:%M')"
+
+echo "→ Pushing..."
+git push
+
+echo "✓ Done. GitHub Actions will deploy in ~1 minute."

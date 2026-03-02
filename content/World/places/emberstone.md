@@ -5,8 +5,9 @@ visited: true
 first_visited: Session 3 (Day 17, Month 5)
 tags: [city, desert, copper-ring, underdark-access, major-location]
 ---
-
 # Emberstone
+
+![[Pasted image 20260302095311.png]]
 
 ## Description
 
