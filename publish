@@ -3,8 +3,9 @@ set -e
 
 REPO="$(cd "$(dirname "$0")" && pwd)"
 SUFOS="/Users/jorgen.lybeck.hansen@m10s.io/Library/Mobile Documents/iCloud~md~obsidian/Documents/Personal/DnD/Characters/sufos"
+VAULT="/Users/jorgen.lybeck.hansen@m10s.io/Library/Mobile Documents/iCloud~md~obsidian/Documents/Personal"
 
-echo "→ Syncing from Obsidian vault..."
+echo "→ Syncing notes from Obsidian vault..."
 rsync -a --delete \
   --exclude="CLAUDE.md" \
   --exclude="Drafts/" \
@@ -12,6 +13,24 @@ rsync -a --delete \
   --exclude="Assets/" \
   "$SUFOS/" \
   "$REPO/content/"
+
+echo "→ Syncing images..."
+mkdir -p "$REPO/content/Assets/images"
+
+# Images stored within the sufos vault folder
+rsync -a "$SUFOS/Assets/" "$REPO/content/Assets/"
+
+# Pasted images stored at vault root (Obsidian default attachment location)
+grep -rh '!\[\[Pasted image[^]]*\]\]' "$REPO/content/" \
+  | grep -oP '(?<=!\[\[)[^\]]+' \
+  | sort -u \
+  | while read -r img; do
+      src="$VAULT/$img"
+      if [ -f "$src" ]; then
+        cp "$src" "$REPO/content/Assets/images/$img"
+        echo "  copied: $img"
+      fi
+    done
 
 cd "$REPO"
 

@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "jeyloh.github.io/sufos-wiki",
-    ignorePatterns: ["CLAUDE.md", "Drafts", ".obsidian", "Assets"],
+    ignorePatterns: ["CLAUDE.md", "Drafts", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
