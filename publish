@@ -21,16 +21,25 @@ mkdir -p "$REPO/content/Assets/images"
 rsync -a "$SUFOS/Assets/" "$REPO/content/Assets/"
 
 # Pasted images stored at vault root (Obsidian default attachment location)
-grep -rh '!\[\[Pasted image[^]]*\]\]' "$REPO/content/" \
-  | grep -oP '(?<=!\[\[)[^\]]+' \
-  | sort -u \
-  | while read -r img; do
-      src="$VAULT/$img"
-      if [ -f "$src" ]; then
-        cp "$src" "$REPO/content/Assets/images/$img"
-        echo "  copied: $img"
-      fi
-    done
+python3 - <<EOF
+import re, os, shutil, glob
+
+content_dir = "$REPO/content"
+vault = "$VAULT"
+dest_dir = "$REPO/content/Assets/images"
+
+refs = set()
+for path in glob.glob(content_dir + "/**/*.md", recursive=True):
+    text = open(path).read()
+    refs.update(re.findall(r'!\[\[(Pasted image[^\]]+)\]\]', text))
+
+for img in sorted(refs):
+    src = os.path.join(vault, img)
+    dst = os.path.join(dest_dir, img)
+    if os.path.isfile(src):
+        shutil.copy2(src, dst)
+        print(f"  copied: {img}")
+EOF
 
 cd "$REPO"
 
