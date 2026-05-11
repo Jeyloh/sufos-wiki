@@ -55,3 +55,21 @@ Major enemy. The Saints failed to defeat him in Chapter 1. He was last seen at D
 - He is brazen and unafraid of us
 - His relationship to [[kynos-gruun|Kynos Gruun]] is unknown
 - His interest in [[helmer|Helmer]] (if any) is unknown
+
+## Session 15 Update: The Dragon Cult Hierarchy
+
+**Disciple #2.** Per [[helmer|Helmer]] (interrogated Session 15), the Dragon Cult is led by **five Disciples**. Dolan / Grim is **#2** of the five — second only to [[gregory-white|Gregory White]] (Disciple #1, a white dragon, in Emond).
+
+**Eshian taught him.** Eshian is confirmed as Dolan's former teacher. The note signed "CCC" did not change this; Eshian remains a separate person from Dolan.
+
+**Holds one of [[vlakith|Vlakith]]'s three dragon eggs.** (The party recovered one from Helmer; Gregory White holds the third.)
+
+**Building a dragon-aging machine.** Dolan is constructing a device that ages dragons rapidly to mature combat form. Prior versions of the machine have been seen by the party in the northern mountain (prototype) and during the prequel game (a dragon castle). The technology has been the cult's long-term project; the missing catalyst has been time-magic.
+
+**Dolan made contact with the Drow** who possess the time-manipulation magic-tech (the same tech they use to grow spider eggs). He has been hunting this technology for years. The Drow / Gruun deal in Emberstone is the **delivery channel** for that tech to reach Dolan.
+
+**Plan: take Rath within weeks.** Once the machine + time-tech are operational, Dolan plans to use the resulting dragon force to take over [[rath|Rath]] — the area containing [[vulca|Vulca]] and the Fire Ashari — to seize the **Fire Orb**.
+
+**Friction with Disciple #4.** Dolan dislikes Disciple #4's necromantic methods. Ideological disagreement, not a power struggle (Dolan is already #2).
+
+**End of Session 15:** Dolan arrived at the [[house-of-bahamut|House of Bahamut]] with **five other people**, scepter in hand, pointing it at [[shereen|Shereen]]. Cliffhanger.

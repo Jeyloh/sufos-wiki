@@ -22,4 +22,10 @@ Not yet directly engaged with. Part of the Copper Ring power structure.
 ## Notes
 
 - Aradin was framed for a theft at **Onio's gallery** — suggesting Onio may have connections to those who wanted Aradin imprisoned
-- One of the four Copper Lords: [[zeffel|Zeffel]] (Tiefling merchant), [[onio|Onio]] (art dealer), [[kynos-gruun|Kynos Gruun]] (Red Capes), [[estian|Estian]] (wizard/Academy)
+- One of the four Copper Lords: [[zeffel|Zeffel]] (Tiefling merchant), [[onio|Onio]] (art dealer), [[kynos-gruun|Kynos Gruun]] (Red Capes), [[eshian|Eshian]] (wizard/Academy)
+
+## Session 15 Update
+
+- **[[kiara|Kiara]]** is a curator at Onio's Gallery and Arts; she has frequent personal contact with [[kynos-gruun|Gruun]]
+- Per [[zeffel|Zeffel]]: Onio cannot be told that the party wants to talk to Kiara — he might connect it to a move against Gruun and tip him off
+- Onio's complicity in the Kiara/Gruun connection: unknown

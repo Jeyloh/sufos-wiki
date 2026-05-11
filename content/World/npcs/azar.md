@@ -24,3 +24,14 @@ Sent two Sending spells in Session 1:
 2. *"Hold lav profil. Aradin meldte om at han visste om en utvikling i Tiamats kult-celle i Emberstone før han forsvant. Aradins informasjon er viktigst."*
 
 The second message stressed the Tiamat cult connection and told Sufos to keep a low profile.
+
+## Session 15 — Sending Exchange
+
+Sufos sent Azar an account of the new lead (the CCC + red five-pointed star letter, *"Asken glemmes ei"*). Azar replied:
+
+> *"Sufos — endelig resultater. Ukjent ledetråd. Synd med Aradins død. Dere kan komme tilbake dersom dere ikke har funnet mer om denne kulten — hører fra deg."*
+
+Three things confirmed by this exchange:
+- **[[aradin|Aradin]] is dead.** Confirmed.
+- Azar **does not recognize** the CCC / red five-pointed star sigil. Whoever sent the letter is not in his network.
+- Azar **grants permission** for the party to return home if no further cult leads emerge.

@@ -26,3 +26,10 @@ Provided to the party by Vharanis as the contact and coordinator for the Crech M
 - Kicked Jim Jam into the water in the Fungal Garden (into a creature-infested pool)
 - The party is to contact him when the leadership of [[crech-mediin|Crech Mediin]] has been eliminated
 - After the Lolth fight (Session 13), Ryth turned on the party and **threatened them**, demanding information about **Garax** — described as "his red dragon that we overpowered a while back." This may refer to [[zephyrion|Zephyrion]] (the young red dragon at Zeffel's) or a separate dragon under Ryth's command. The party told him what they knew. The situation then escalated when Lolth's magic struck.
+
+## Session 15
+
+- **Left behind during the underground infiltration** at [[carls-caravan-company|CCC]]
+- Did not enter the warehouse with the rest of the party
+- Not present for the Helmer fight, the Edegard rescue, the Shereen alliance, or the temple cliffhanger
+- Status going into the next encounter: separated from the active party

@@ -5,22 +5,26 @@ race: Dragon (Paladin)
 status: alive
 disposition: neutral
 first_met: Emberstone (at vandalized statues)
-tags: [paladin, dragon, emberstone]
+tags: [paladin, dragon, emberstone, city-protector]
 image:
 ---
 
 # Shereen
 
 ## Description
-<!-- Appearance, manner -->
-A paladin who is also a dragon. Met at vandalized statues in Emberstone.
+A paladin who is also a dragon — capable of taking dragon form. Met at vandalized statues in Emberstone.
 
 ## Relationship
-<!-- How they relate to your character -->
 Encountered at the damaged [[Falang]] and [[Paylore]] statues in Emberstone.
 
 ## Notes
-<!-- What you know about them -->
-- Paladin with dragon nature
+- Paladin with dragon nature; can transform into a dragon
+- **Stays out of politics**, but will do anything to protect the city
+- A factor to consider in any operation that could endanger Emberstone or its civilians
 - Guards/investigates the vandalized statues
-- Connection to Emberstone's conflicts unclear
+- **Does not like red dragons** — relevant if we try to bring [[zephyrion|Zephyrion]]/Garax into Emberstone
+- Possibly the same person as [[cheereen|Cheereen]] (paladin of Bahamut, also a city protector) — unconfirmed
+
+## Open Questions
+- Is Shereen the same person as [[cheereen|Cheereen]]?
+- Would she intervene if a violent move on Gruun put bystanders/the city at risk?

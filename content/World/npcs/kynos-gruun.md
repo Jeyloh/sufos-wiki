@@ -35,4 +35,18 @@ Presented himself as a neutral power broker, but the Mind Flayer's journal ident
 
 ## Connection to Dolan
 
-**Unknown relationship**: Dolan Ward (dragon cult leader) is a former student of Copper Lord [[estian|Estian]] and was encountered in Emberstone during Session 14. Dolan and Estian are separate people. Unknown if Gruun and Dolan have any connection.
+**Unknown direct relationship**: Dolan Ward (dragon cult leader) is a former student of Copper Lord [[eshian|Eshian]] and was encountered in Emberstone during Session 14. Dolan and Eshian are separate people.
+
+## Session 15 Update — Gruun's Real Role
+
+**Gruun is NOT a member of the Dragon Cult.** Confirmed by [[helmer|Helmer]]'s interrogation. He is a Mind Flayer collaborator (already known) but he is not a Disciple.
+
+**He IS the cult's delivery channel for Drow time-magic.** Dolan needs the Drow time-manipulation tech to make his dragon-aging machine viable. Gruun is being courted by the Drow ambassadors as a mercenary alliance — and the trade carries the time-tech with it.
+
+**Gruun's personal cut: a dragon.** The Drow promised him **one of the dragons** that the cult will hatch and grow. That, more than gold, is what makes him hard to pull off the table.
+
+**The Gruun deal stop is therefore existential.** Without the time-tech reaching Dolan, the dragon-army timeline goes from days back to years. The political reasons to stop the deal already existed. The cult-blocking reason now dwarfs them.
+
+**Leo's overnight scout (Session 15):** Located Gruun's main office at the spire — likely venue for the Drow meeting today.
+
+**Plan (Session 15):** [[shereen|Shereen]] flies the party (in dragon form) directly to the entrance of Gruun's office to interrupt the meeting.

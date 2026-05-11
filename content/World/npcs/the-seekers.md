@@ -20,6 +20,15 @@ A band of mercenaries who won the Emberstone Trade Festival Gladiator Games (whi
 - **Recent hire**: Just recently brought on as Gruun's security force
 - **Combat proven**: They won the most prestigious martial competition in the city
 
+## Composition (4 known members)
+
+- **Robust man with an axe** — the one Leo mocked at House of Zeffel
+- **Light-clothed half-elf**
+- **Short dwarf in black clothing**
+- **Tiefling**
+
+Names and classes unknown.
+
 ## Relationship
 
 Adversarial. We plan to kill them—not out of direct conflict, but because they are protecting our target [[kynos-gruun|Kynos Gruun]]. Removing them will make assassinating Gruun easier.
@@ -41,7 +50,7 @@ At the **House of Zeffel** (during the trade festival), we deliberately mocked t
 
 ## Open Questions
 
-- **How many members?** What is their full composition?
+- **Names** of the four members
 - **Combat abilities?** What classes/powers do they possess?
 - **Next move?** Will they seek vengeance for the mockery, or ignore us?
 - **Loyalty to Gruun**: How committed are they? Could they be turned?

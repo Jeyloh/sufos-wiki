@@ -49,10 +49,10 @@ Note: Moradin and Lolth are both among the primordial gods — making the Lolth 
 
 | Orb | Status | Notes |
 |-----|--------|-------|
-| Earth Orb | **STOLEN** | Taken from Dhildhor by Dragon Cult. Sufos's primary mission. |
-| Water Orb | Uncertain | Three Waters defended in Ch.1 finale. Orb status unclear. |
-| Fire Orb | Protected (?) | Sufos helped Fire Ashari hide it during Chapter 2 prologue. |
-| Air Orb | Unknown | No information gathered. |
+| Earth Orb | **STOLEN** (delivered to cult) | Taken from Dhildhor by Dragon Cult. |
+| Water Orb | **STOLEN** (delivered to cult) | Confirmed Session 15 by Helmer's "two orbs delivered" statement and Shereen briefing. Lost during/after Ch.1 finale. |
+| Fire Orb | **CULT'S NEXT TARGET** | Held by Fire Ashari in [[vulca|Vulca]] / [[rath|Rath]]. Helmer's cell was tasked with this orb. Dolan plans to take Rath within weeks. |
+| Air Orb | Final target | Location still unknown. |
 
 Moradin's Divination (Ch.1, Emond library) revealed exact locations of all four orbs at that time — but this intelligence is now potentially stale.
 
@@ -62,4 +62,11 @@ Once the cult has **2+ orbs**, they plan to converge at **[[blade-garden|Blade G
 
 ## The Githyanki Connection
 
-Three **dragon scepters** were carved from Tiamat's wisdom teeth — part of an ancient pact. The current theory is that these scepters were one of the mechanisms that helped the Githyanki break free from the Mind Flayers' enslavement. The full nature of the pact is unknown.
+Three **dragon scepters** were carved from Tiamat's wisdom teeth — part of an ancient pact. The current theory is that these scepters were one of the mechanisms that helped the Githyanki break free from the Mind Flayers' enslavement.
+
+**Session 15 — the pact clarified (per [[helmer|Helmer]]):**
+- [[vlakith|Vlakith]] (Githyanki Queen) made a pact with [[tiamat|Tiamat]] long ago, while Tiamat still walked the material plane
+- Tiamat foresaw she would be sealed in a prison
+- The pact gave the Githyanki access to **red dragons**
+- Helmer used this same pact to obtain three **dragon eggs** from Vlakith
+- The cult's plan: hatch the eggs, age them rapidly via Dolan's machine + Drow time-magic, raise a dragon army, use it to take the Fire and Air Orbs from the Ashari
