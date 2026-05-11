@@ -10,6 +10,7 @@ npcs_met:
   - Half-dragon (cult, killed)
   - Cultists (killed)
   - Jorek
+  - Aradin (posthumously, via the CCC note)
   - Edegard
   - Shereen
   - Dolan Ward (silhouette, end of session)
@@ -47,11 +48,25 @@ items_acquired:
 
 ## Summary
 
-Moradin gave me back what I had wagered, and so I began this day on my knees in gratitude — not on the back of any dragon, not in any hall of power. Just on my knees. By the end of the day I had stood in the chambers of cult leaders, walked under the streets of [[emberstone|Emberstone]] in tunnels I never knew existed, and ended a man's fevered double life with a spell. We thought we were chasing a Mind Flayer's ghost and a copper lord's greed. We were, in truth, walking into the room where a god is being undone and a demigod is being raised.
+A long day with major reveals. Started with Sufos attempting to exorcise [[orgaz|Orgaz]] from [[murdoch|Murdoch]] — failed to drive out the demon but restored Murdoch's full Orgaz-era memory; Murdoch realized he himself was the Poetic Murderer he had hunted as a detective. Breakfast with [[zeffel|Zeffel]] gave us the [[kiara|Kiara]]/Onio infiltration angle for getting at [[kynos-gruun|Gruun]], plus a hard rule (don't expose Zeffel's plot). Murdoch then drank himself stupid and used a Wish from the [[deck-of-many-things|Deck of Many Things]]: *"I wish that Orgaz never possessed me"* — reality reshaped, the Poetic Murderer's killings dissolved, Murdoch is no longer an alcoholic.
 
-We are three of us now, with [[shereen|Shereen]] beside us. [[ryth|Ryth]] is not here. The deal we have come to stop is happening today. And as we left the temple of [[bahamut|Bahamut]], [[dolan-ward|Dolan]] was standing in the doorway with five more behind him, scepter raised at our paladin friend.
+A note from a slave boy [[jorek|Jorek]] led us to **[[carls-caravan-company|Carl's Caravan Company]]** — the CCC of the signature. The half-elf gladiator who sent the note was **[[aradin|Aradin]]** — the missing Fire Ashari agent we'd been searching for. We had met him in the prison earlier in the chapter and planned with him; we couldn't free him, and he was forced into the festival arena fights, where he died. The CCC note was his last act. We bluffed past the warehouse guard, found the underground tunnel network, killed cultists, and took down [[helmer|Helmer]]'s cell after a brutal fight. Loot included **one of [[vlakith|Vlakith]]'s three [[dragon-egg|dragon eggs]]**.
 
-I am writing this knowing the next words I write may be from a less hopeful place.
+Mapping the tunnels: four exits, including [[eshians-garden|Eshian's Garden]] and a smith at the [[house-of-copper|House of Copper]] (the smith was a cultist and was eliminated). Found and rescued **[[edegard|Edegard]]** — the man [[shereen|Shereen]] had been searching for — heavily tortured.
+
+[[shereen|Shereen]] took us to her temple's **[[house-of-bahamut|House of Bahamut]]**. Major lore reveal:
+- The cult is led by **five Disciples**: #1 [[gregory-white|Gregory White]] (white dragon, Emond), #2 [[dolan-ward|Grim/Dolan]], #4 unnamed centuries-old necromancer, #3 and #5 unknown.
+- The **Vlakith–Tiamat pact** explains the dragon eggs and Helmer's access.
+- **Earth and Water orbs are already delivered** to the cult; **Fire** is the next target ([[vulca|Vulca]] / [[rath|Rath]]); **Air** is final.
+- **Dolan is building a dragon-aging machine**; the Drow time-magic from the [[stop-gruun-deal|Drow/Gruun deal]] is the catalyst that turns it from a years-long project into a days-long one.
+- **[[kynos-gruun|Gruun]] is NOT in the cult** — but is the delivery channel and was promised a personal dragon.
+- The cult uses **war as cover for Tiamat's resurrection**.
+
+[[murdoch|Murdoch]] accidentally leaked Zeffel's secret to Shereen during the briefing.
+
+Plan agreed: Shereen flies the party in dragon form to Gruun's office to crash the meeting and stop the deal directly today.
+
+**Cliffhanger:** As we left the temple, [[dolan-ward|Dolan]] was entering with **five others**, scepter raised at [[shereen|Shereen]]. Party going into the next encounter: 3 PCs + Shereen, no long rest, depleted spells, [[ryth|Ryth]] left behind.
 
 ## Key Events
 
@@ -106,15 +121,15 @@ I opened the note in private. It read:
 > *"Asken glemmes ei."*
 > Signed: **CCC**, beside a **red five-pointed star**.
 
-*The ash is not forgotten.* It is an Ashari phrase — *asken*, ash; *Ashari*, the people of ash. The choice of words felt like authentication: a fellow Ashari reaching out. I sent immediately to [[azar|Azar]].
+*The ash is not forgotten.* I noticed how *asken* (ash) sits close to *Ashari* (the people of ash) — the phrase felt like it might be reaching out to a fellow Ashari, but I did not know for certain. I sent immediately to [[azar|Azar]].
 
 His answer came back short and devastating:
 
 > *"Sufos — endelig resultater. Ukjent ledetråd. Synd med Aradins død. Dere kan komme tilbake dersom dere ikke har funnet mer om denne kulten — hører fra deg."*
 
-Two things. First, [[aradin|Aradin]] is dead. Confirmed. The Fire Ashari agent we have been chasing the trail of — gone. Second, Azar does not recognize CCC or the red star either. Which means the letter signed CCC did not come from any Fire Ashari that Azar knows. Someone else is using the Ashari authentication phrase to reach me.
+Two things. First, [[aradin|Aradin]] is dead. Confirmed. The Fire Ashari agent we have been chasing the trail of — gone. Aradin had been forced into the festival arena fights when we couldn't free him from prison, and that is where he died. Second, Azar does not recognize CCC or the red star — and the phrase isn't from any Ashari sign-language he knows either. So the *Ashari authentication* read on the words was my own theory, not a confirmed code.
 
-A name surfaced from the day's earlier conversations: **Carl's Caravan Company** — *CCC*. A location on the city map. Suddenly the geography of the puzzle shifted under our feet. The signature was not just a code. It was an address.
+But the note still pointed somewhere. A name surfaced from the day's earlier conversations: **Carl's Caravan Company** — *CCC*. A location on the city map. The signature was not just a mark. It was an address — and given Aradin had been investigating a Tiamat cell here before he died, it was almost certainly his last act, getting one more piece of intel out before the arena took him.
 
 ### Into Carl's Caravan Company
 
@@ -134,7 +149,7 @@ Inside the room, [[helmer|Helmer]] was speaking. Our archaeologist. The man we e
 
 He was saying that two orbs had been delivered. He was saying that this cell was responsible for the last orb — the **Fire Orb**.
 
-I did not need to understand any more than that. We broke in. Sufos's battle cry: *take this fireball*. Murdoch took the cry literally and led us in casting Fireball.
+I did not need to understand any more than that. We broke in. [[murdoch|Murdoch]] led the charge with his battle cry — *take this fireball* — and cast Fireball as he came through the door.
 
 The fight was brutal. Helmer had a half-dragon at his side and three cultists. We spent everything — spell slots, stamina, [[murdoch|Murdoch]]'s reserves — and we came out the other end with three of our enemies dead and Helmer alive on the floor in front of us. We did not have the resources for any more enemies. We had been very lucky.
 
@@ -153,19 +168,31 @@ The Eshian exit is suggestive. It does not, on its own, prove that the smart, ma
 
 ### Edegard. The smith. Shereen.
 
-Deeper in the tunnels we found a man chained and tortured to within an inch of his life. He gave his name as **[[edegard|Edegard]]**. He was, he said, the man [[shereen|Shereen]] had been searching for. We sent for her at once.
+Deeper in the tunnels we found a man chained and tortured to within an inch of his life. He gave his name as **[[edegard|Edegard]]**. He was, he said, the man [[shereen|Shereen]] had been searching for. The torture had been [[helmer|Helmer]]'s work — the same archaeologist whose company we had escorted across the desert was the one who had broken this man over weeks. We sent for Shereen at once.
 
 We came up out of the tunnels at the smith's place at the [[house-of-copper|House of Copper]]. The smith was a cultist. We dealt with him.
 
-Then [[shereen|Shereen]] came. We met her in the street and she took us with her to her temple — the **[[house-of-bahamut|House of Bahamut]]** — past the seven statues of the gods, down the stairs, into a private room.
+Then [[shereen|Shereen]] came. We met her in the street and she took us, with [[helmer|Helmer]] in custody and [[edegard|Edegard]] being moved to safety, to her temple — the **[[house-of-bahamut|House of Bahamut]]** — past the seven statues of the gods, down the stairs, into a private room.
 
-### The truth, told to a dragon
+### Interrogating Helmer in front of Shereen
 
 This is where the world widened.
 
+We questioned [[helmer|Helmer]] in that private room with [[shereen|Shereen]] standing over him. **Most of what we learned about the cult came directly from his mouth.** He talked. Some of it was bargaining for his own life; some of it was a man who had been Disciple-#4-bound describing the structure he had wanted into. The "innocent archaeologist" act was always a disguise — though he is genuinely a smart man and did genuinely study under [[eshian|Eshian]] at the Academy. The scholarship was real. The innocence was not.
+
+Helmer was the **leader of the local Dragon Cult cell** in Emberstone, the cell we had just walked through and broken. He was hungry to take a seat among the **five Disciples** — specifically the #4 seat — and was running this orb operation as the kind of high-stakes proof that earns a promotion in a cult of dragons.
+
+After the interrogation we left Helmer **imprisoned at the temple**. (He is still there now, with [[dolan-ward|Dolan]] standing in the doorway above him as I write this. That is a problem we will come back to.)
+
+What he gave us:
+
+#### Doctrine
+
 Tiamat thrives on chaos. The Dragon Cult uses **war** as a deliberate distraction — a cover of noise behind which Tiamat's resurrection moves. The Kayrun/Thalia war is not just Drow politics. It is *part of the resurrection's cover*.
 
-The cult is led by **five Disciples**. Helmer, the local cell leader, was *under* one of them.
+#### Hierarchy — the Five Disciples
+
+The cult is led by **five Disciples**. Helmer was *under* one of them and angling to be one of them.
 
 - **#1: [[gregory-white|Gregory White]]** — the senior Crimson Assembly mage in [[emond|Emond]]. He is *a white dragon*. Tiamat's white head, sitting at the head of her cult.
 - **#2: [[dolan-ward|Grim / Dolan Ward]]** — Crimson Assembly member, in Emberstone for what must now look like a coronation of his life's work.
@@ -220,7 +247,7 @@ End of session.
 - **Two orbs already lost.** Earth (we knew) and Water (now confirmed). Fire and Air remain — and Fire is the next target.
 - **The dragon-aging machine** — long-running cult project; the Drow time-magic is the missing catalyst. Without that delivery, Dolan's plan becomes a years-long problem. With it, days.
 - **Gruun is not in the cult** — he's a beneficiary trying to buy a personal dragon. The deal is still the linchpin to stop, but for the world's sake, not because Gruun is one of *them*.
-- **Aradin is dead** — confirmed by Azar. The CCC letter is from someone else who knows Ashari sign-language.
+- **Aradin is dead** — confirmed by Azar. He was forced into the festival arena fights and killed there. **He sent the CCC letter himself** before he died — the half-elf gladiator who passed it to [[jorek|Jorek]] was Aradin. His mission succeeded posthumously: his last note pointed us at Helmer's cell.
 - **CCC = Carl's Caravan Company** — the cult's logistics front in Emberstone. Tunnels under the city connect it to Eshian's estate, the oasis, and the House of Copper smith.
 - **The Wish reshaped Murdoch's history** — the Poetic Murderer is no longer real; alcoholism gone; some of his most haunting cases have simply ceased to exist.
 

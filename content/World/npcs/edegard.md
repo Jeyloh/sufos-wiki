@@ -22,6 +22,7 @@ Rescued by the party. Now in the care of Shereen at the [[house-of-bahamut|House
 ## Notes
 
 - Heavily tortured before being found
+- **The torturer was [[helmer|Helmer]]** — the local cult cell leader, working personally on Edegard over an extended period
 - Connection to [[shereen|Shereen]] established but specifics not yet shared
 - Distinct from [[egdalen-warendin|Egdalén Warendin]] (the Ashari liaison) — different person
 

@@ -22,13 +22,13 @@ Encountered briefly. Performed his task and was not interrogated further.
 ## Notes
 
 - Delivered a note to Sufos in Session 15
-- The note's sender: an unnamed **half-elf** killed in the [[titanfall-arena|arena]] some days earlier
+- The note's sender: **[[aradin|Aradin]]** — half-elf Fire Ashari agent killed in the [[titanfall-arena|arena]] during the Emberstone festival
 - The note read: *"Asken glemmes ei"* signed CCC + a red five-pointed star
-- The signature led the party to Carl's Caravan Company
+- CCC was an address: [[carls-caravan-company|Carl's Caravan Company]] — the cult cell Aradin had been investigating
 
 ## Open Questions
 
 - Who owns Jorek?
-- How did he come into possession of the note? Was the half-elf his master?
-- Is Jorek a witting or unwitting agent of whoever sent the message?
-- Does he know more than he let on?
+- How did Aradin reach him from prison / the arena? Direct contact, or intermediaries?
+- Is Jorek a witting Ashari asset, or just a paid courier?
+- Does he know more than he let on? Could he carry messages back?

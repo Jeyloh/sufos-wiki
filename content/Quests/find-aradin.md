@@ -7,7 +7,7 @@ started: Session 1
 completed: Session 15 (failed — Aradin confirmed dead)
 ---
 
-# Find Aradin — FAILED
+# Find Aradin — FAILED to rescue, intel partially recovered
 
 ## Objective
 
@@ -15,23 +15,28 @@ Locate the missing Fire Ashari agent **[[aradin|Aradin]]**, who was operating un
 
 ## Outcome
 
-**[[aradin|Aradin]] is dead.** Confirmed by [[azar|Azar]] via Sending in Session 15:
+**[[aradin|Aradin]] is dead.** We met him in prison and could not get him out. He was forced into the festival arena fights at the [[titanfall-arena|coliseum]] and was killed there. Confirmed by [[azar|Azar]] via Sending in Session 15:
 
 > *"Synd med Aradins død."*
 
-His Tiamat cult intelligence was never recovered. His informant network and any drop points he established remain unknown.
+**However:** before he died, Aradin sent a posthumous note via the slave boy [[jorek|Jorek]] — the **CCC + red five-pointed star** letter with *"Asken glemmes ei"*. CCC = **[[carls-caravan-company|Carl's Caravan Company]]**, the cult cell location he had been investigating. **His mission succeeded posthumously** — the note led the party directly to [[helmer|Helmer]]'s cell in Session 15.
 
 ## Progress (historical)
 
 - Learned Aradin was imprisoned in Vulture's Vault (Embermines prison), framed for theft at Onio's gallery — from [[egdalen-warendin|Egdalén]]
-- Spoke briefly with Aradin through Thieves' Cant; he hinted at a collapsed cell near the mine cave-in
-- Broke into Embermines — his cell was empty. He had been moved.
-- Session 15: confirmed dead by Azar.
+- Spoke briefly with Aradin through Thieves' Cant in prison; he hinted at a collapsed cell near the mine cave-in
+- The party met and planned with Aradin in the prison area
+- The party could not release him
+- He was moved out of the prison and forced into the festival arena fights as part of the Emberstone festival
+- He was killed in the arena
+- Before/around his death, he sent the CCC note to Sufos via Jorek
+- Session 15: Azar confirmed his death
 
 ## Aftermath
 
-- The CCC + red five-pointed star letter was *not* from Aradin (he was already dead). Identity of the sender unknown.
-- The intelligence Aradin held is presumed lost or in the cult's hands.
+- The CCC letter was Aradin's last intelligence drop
+- His broader informant network and any other drop points remain unknown
+- The cell he was investigating is now broken (Helmer captured)
 
 ## Earlier Notes (preserved)
 

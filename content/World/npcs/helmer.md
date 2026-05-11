@@ -1,10 +1,10 @@
 ---
 name: Helmer
 race: Unknown
-status: captured (alive, in party custody)
+status: captured (alive, imprisoned at the House of Bahamut)
 disposition: hostile (revealed cult cell leader, formerly posing as friendly)
 first_met: Session 3 — Zeffel's establishment
-tags: [dragon-cult, cell-leader, githyanki-pact, helmer, traitor, captured, eshian-student, vlakith-pact]
+tags: [dragon-cult, cell-leader, githyanki-pact, helmer, traitor, captured, eshian-student, vlakith-pact, torturer]
 ---
 
 # Helmer
@@ -25,12 +25,18 @@ Hostile. Currently captured alive in the [[carls-caravan-company|CCC]] tunnel ne
 
 - **Cell leader** of the Emberstone Dragon Cult cell
 - Reports up to [[dolan-ward|Grim / Dolan Ward]] (Disciple #2)
-- **Aspired to take Disciple #4's seat** (the unnamed centuries-old necromancer)
+- **Aspired to take Disciple #4's seat** (the unnamed centuries-old necromancer) — running the orb operation as a high-stakes proof of capability
 - Was tasked by the cult with delivering the **Fire Orb** — the third orb the cult plans to take (Earth and Water already delivered)
 - **Used the [[vlakith|Vlakith]]–[[tiamat|Tiamat]] pact** to obtain the three dragon eggs
 - Stole a tool to communicate with [[vlakith|Vlakith]] across planes; she granted him an audience and sent him back with the eggs
 - Speaks Githyanki
 - One of the three eggs was in a chest in his office at the CCC warehouse — recovered by the party
+- **Personally responsible for torturing [[edegard|Edegard]]** in the CCC tunnels — sustained, methodical work, not incidental
+- His "innocent archaeologist" persona was a disguise — but he is a **genuinely smart man** and **did genuinely study under [[eshian|Eshian]]** at the Academy. The scholarship was real; the innocence was not.
+
+## Current Location
+
+**Imprisoned at the [[house-of-bahamut|House of Bahamut]]** (Shereen's temple) at the end of Session 15. Critical: [[dolan-ward|Dolan]] arrived at the temple door immediately after we left, with five others — meaning Helmer-the-prisoner is now sitting under Dolan's path of attack.
 
 ## Earlier Notes (preserved)
 
